@@ -40,7 +40,7 @@ Locked in. Ready for impact.</strong>
 
 <img height="160" src="https://streak-stats.vercel.app/?user=Govardhanit&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://img.shields.io/github/public-repos/Govardhanit?style=for-the-badge" />
+<img height="160" src="https://img.shields.io/github/languages/top/Govardhanit/repo-name?style=for-the-badge&label=top%20language" />
 
 </p>
 
