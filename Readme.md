@@ -39,14 +39,8 @@ Locked in. Ready for impact.</strong>
 <p align="center">
 
 <img height="160" src="https://streak-stats.vercel.app/?user=Govardhanit&theme=tokyonight&hide_border=true" />
-![Repos](https://img.shields.io/github/public-repos/Govardhanit?style=for-the-badge)
 
-
-
-
-
-
-
+<img height="160" src="https://img.shields.io/github/public-repos/Govardhanit?style=for-the-badge" />
 
 </p>
 
