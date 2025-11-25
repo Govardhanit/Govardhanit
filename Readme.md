@@ -51,7 +51,7 @@ Locked in. Ready for impact.</strong>
  <a href="https://github.com/Govardhanit" target="_blank">
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
  </a>
- <a href="https://www.linkedin.com/in/govi-devops/](https://www.linkedin.com/in/govardhan-p/" target="_blank">
+ <a href="https://www.linkedin.com/in/govardhan-p/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://devops-resume-govardhan.vercel.app/" target="_blank">
