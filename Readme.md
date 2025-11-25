@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Govi 👋</h2>
+<h2 align="center">Hey, I'm Govardhan 👋</h2>
 
 <p align="center">
 <strong>AWS + DevOps Engineer in the making — scaling infra, automating workflows, and keeping systems running clean and calm.<br>
