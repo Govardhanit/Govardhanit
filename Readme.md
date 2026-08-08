@@ -5,7 +5,6 @@
 Locked in. Ready for impact.</strong>
 </p>
 
-![ezgif-35b1b98379f0a906](https://github.com/user-attachments/assets/a96abf77-af1b-423e-bc21-04d69959e505)
 
 
 ---
