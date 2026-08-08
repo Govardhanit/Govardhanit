@@ -33,18 +33,6 @@ Locked in. Ready for impact.</strong>
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-
-<img height="160" src="https://streak-stats.vercel.app/?user=Govardhanit&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Govardhanit&theme=tokyonight" />
-
-</p>
-
----
-
 ### 🔗 Connect With Me
 <p align="center">
  <a href="https://github.com/Govardhanit" target="_blank">
